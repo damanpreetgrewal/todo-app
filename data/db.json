@@ -2,18 +2,6 @@
   "todos": [
     {
       "userId": 1,
-      "id": 1,
-      "title": "delectus aut autem",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": false
-    },
-    {
-      "userId": 1,
       "id": 4,
       "title": "et porro tempora",
       "completed": true
@@ -1138,7 +1126,7 @@
       "userId": 10,
       "id": 194,
       "title": "sed ut vero sit molestiae",
-      "completed": false
+      "completed": true
     },
     {
       "userId": 10,
@@ -1150,13 +1138,13 @@
       "userId": 10,
       "id": 196,
       "title": "consequuntur aut ut fugit similique",
-      "completed": true
+      "completed": false
     },
     {
       "userId": 10,
       "id": 197,
       "title": "dignissimos quo nobis earum saepe",
-      "completed": true
+      "completed": false
     },
     {
       "userId": 10,
@@ -1171,16 +1159,10 @@
       "completed": true
     },
     {
-      "userId": 10,
-      "id": 200,
-      "title": "ipsam aperiam voluptates qui",
-      "completed": false
-    },
-    {
       "userId": 1,
-      "title": "New todo!",
+      "title": "Another New Todo",
       "completed": false,
-      "id": 201
+      "id": 200
     }
   ]
 }
